@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Welcome to Sui Gas Bill Check (SGBC)
 
-<!--
-**suigasbillcheck/suigasbillcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Easily check and download **duplicate SSGC & SNGPL gas bills** online.
 
-Here are some ideas to get you started:
+👉 [Visit Sui Gas Bill Check](https://suigasbillcheck.com.pk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 What We Do
+We help users save time by providing:
+- Duplicate SSGC bill check  
+- Duplicate SNGPL bill check  
+- Easy download & print options  
+- Payment guides (banks, Easypaisa, JazzCash, mobile apps)  
+
+---
+
+## 🌐 Connect With Us
+- Website: [suigasbillcheck.com.pk](https://suigasbillcheck.com.pk)  
+- Facebook: (your link if available)  
+- Instagram: (your link if available)  
+- YouTube: (your link if available)  
+- Twitter: (your link if available)  
+
+---
+
+💡 *This project is dedicated to making gas bill management easier and faster for everyone in Pakistan.*
